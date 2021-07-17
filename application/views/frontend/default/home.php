@@ -3,7 +3,7 @@
         background-size: cover;
         background-repeat: no-repeat;
         padding: 170px 0 130px;
-        color: #fff;">
+        color: black;">
     <div class="container-lg">
         <div class="row">
             <div class="col">
